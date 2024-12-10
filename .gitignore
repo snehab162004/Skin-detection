@@ -1,0 +1,22 @@
+# Virtual environment
+env/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Static and temporary files
+uploads/
+static/
+
+# Logs
+*.log
+
+# Model files
+*.h5
+
+# IDE files
+.vscode/
+
+# Others
+.DS_Store
